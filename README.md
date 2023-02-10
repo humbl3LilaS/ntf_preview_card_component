@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git hub](https://github.com/humbl3lalis/ntf_preview_card_component.git)
+- Live Site URL: [Vercel](https://vercel.com/humbl3lalis/ntf-preview-card-component/3QNQ7iM32q6HXpy5pSK2LyiWH5vd)
 
 ## My process
 

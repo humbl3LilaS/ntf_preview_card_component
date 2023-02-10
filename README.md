@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git hub](https://github.com/humbl3lalis/ntf_preview_card_component.git)
-- Live Site URL: [Vercel](https://vercel.com/humbl3lalis/ntf-preview-card-component/3QNQ7iM32q6HXpy5pSK2LyiWH5vd)
+- Live Site URL: [Vercel](https://ntf-preview-card-component-six.vercel.app/)
 
 ## My process
 
